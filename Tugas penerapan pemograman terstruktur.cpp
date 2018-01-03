@@ -9,3 +9,12 @@ int main(){
 	//x
 	cout << "MATRIX X :"<<endl;
 	int kuda1=0;
+	do{
+		cout << a1c[kuda1]<<" | ";
+		kuda1++;
+	}while(kuda1<5);cout<<endl;
+	int kuda2=0;
+	do{
+		cout << a2c[kuda2]<<" | ";
+		kuda2++;
+	}
