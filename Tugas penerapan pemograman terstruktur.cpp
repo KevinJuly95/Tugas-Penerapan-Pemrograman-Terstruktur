@@ -37,3 +37,9 @@ int main(){
 		cout << endl<<endl;
 		cout << "MATRIX R :"<<endl;
 	int sapi1=0;
+	do{
+		cout << Ra1c[sapi1]<<" | ";
+		sapi1++;
+	}while(sapi1<5);cout<<endl;
+		int sapi2=0;
+	
